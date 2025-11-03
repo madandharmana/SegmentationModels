@@ -1,4 +1,4 @@
-# This Repository contains Python scripts (Jupyter Notebooks) for multiple Segmentation Methods.
+# This Repository contains Python scripts (Jupyter Notebooks) for Segmentation Methods.
 
 Created K-Means Clustering model to segment the Mall Customers.
 
